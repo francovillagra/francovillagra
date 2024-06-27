@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
-💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software, trabajar en proyectos desafiantes que requieren soluciones innovadoras.\
+💡 &nbsp;Me gusta explorar nuevas tecnologías, aportar soluciones, trabajar en proyectos desafiantes que requieren soluciones innovadoras.\
 🎓 &nbsp;La mayor parte del tiempo me encuentro buscando maneras de mejorar mis habilidades.\
 🌱 &nbsp;Me gustaría trabajar en equipo y colaborar para alcanzar objetivos comunes.\
 💬 &nbsp;No dudes en ponerte en contacto conmigo.\
