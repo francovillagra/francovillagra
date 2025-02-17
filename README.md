@@ -22,9 +22,9 @@ Mi enfoque se basa en profundizar y perfeccionar habilidades, construyendo soluc
 </p>
 
 
-![francovillagra GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=francovillagra&repo=nombre-de-tu-repositorio&cache_seconds=86400&theme=codeSTACKr)
+![francovillagra GitHub stats](https://github-readme-stats.vercel.app/api?username=francovillagra&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francovillagra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francovillagra&layout=compact&theme=dark)
 </a>
 </p>
 
