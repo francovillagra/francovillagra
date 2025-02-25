@@ -20,6 +20,10 @@ Mi enfoque se basa en profundizar y perfeccionar habilidades, construyendo soluc
 
 <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=yellow"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-white?style=flat&logo=Pandas&logoColor=red&logoSize=auto">
 
+### __Plataforma virtual__
+
+<img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-blue?style=flat&logo=AzureCloud
+">
 
 ![francovillagra GitHub stats](https://github-readme-stats.vercel.app/api?username=francovillagra&show_icons=true&theme=dark)
 
