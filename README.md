@@ -1,11 +1,13 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Mi GitHub</h1>
+![Banner de Franco Villagra](1.png)
+<h1>Hola!</h1>
 
-Hola! Soy Franco Villagra, Desarrollador Fullstack, actualmente viviendo en <b>Ciudad Autónoma de Buenos Aires, Argentina <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" width="13"/></b>. 
+<p>
+Bienvenido/a a mi perfil de Github Soy Franco Villagra, un **Desarrollador Fullstack** me gusta la programación y la tecnología, construir aplicaciones de software y explorar nuevas formas de mejorar su eficiencia.
 
 Mi enfoque se basa en profundizar y perfeccionar habilidades, construyendo soluciones eficientes y escalables. Estoy convencido que el dominio de herramientas específicas permite un enfoque sólido para resolver problemas simples, o bien, complejos, para poder crear impacto en el largo plazo.</p>
 
 
-## Stack Tecnológico 💻
+<h2>Stack Tecnológico 💻</h2>
 
 ### __Front-end__
 <p>
