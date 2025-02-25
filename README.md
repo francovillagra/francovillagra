@@ -1,4 +1,4 @@
-![Banner de Franco Villagra](francovillagra banner 03.png)
+![Banner de Franco Villagra](francovillagra banner 03.jpg)
 
 <h1>Hola!</h1>
 
