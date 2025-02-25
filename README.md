@@ -6,7 +6,7 @@ Bienvenido/a a mi perfil de Github Soy Franco Villagra, un **Desarrollador Fulls
 Mi enfoque se basa en profundizar y perfeccionar habilidades, construyendo soluciones eficientes y escalables. Estoy convencido que el dominio de herramientas específicas permite un enfoque sólido para resolver problemas simples, o bien, complejos, para poder crear impacto en el largo plazo.
 
 
-## Stack Tecnológico 💻
+## Habilidades Tecnológicas 💻
 
 ### __Front-end__
 
