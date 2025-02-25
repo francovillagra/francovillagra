@@ -1,17 +1,15 @@
-![Banner de Franco Villagra](francovillagra-banner-03.png)
+![banner francovillagra](francovillagra-banner-03.jpg)
+# Hola!
 
-<h1>Hola!</h1>
-
-<p>
 Bienvenido/a a mi perfil de Github Soy Franco Villagra, un **Desarrollador Fullstack** me gusta la programación y la tecnología, construir aplicaciones de software y explorar nuevas formas de mejorar su eficiencia.
 
-Mi enfoque se basa en profundizar y perfeccionar habilidades, construyendo soluciones eficientes y escalables. Estoy convencido que el dominio de herramientas específicas permite un enfoque sólido para resolver problemas simples, o bien, complejos, para poder crear impacto en el largo plazo.</p>
+Mi enfoque se basa en profundizar y perfeccionar habilidades, construyendo soluciones eficientes y escalables. Estoy convencido que el dominio de herramientas específicas permite un enfoque sólido para resolver problemas simples, o bien, complejos, para poder crear impacto en el largo plazo.
 
 
-<h2>Stack Tecnológico 💻</h2>
+## Stack Tecnológico 💻
 
 ### __Front-end__
-<p>
+
 <img alt="React" src="https://img.shields.io/badge/React-turquoise?style=flat&logo=React&labelColor=grey&color=grey" /><img alt="Javascript" src="https://img.shields.io/badge/Javascript-yellow?style=flat&logo=Javascript&labelColor=black"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=white&labelColor=orange&color=orange"><img alt="Angular" src="https://img.shields.io/badge/Angular-red?style=flat&logo=ANGULAR&logoColor=WHITE&labelColor=red&color=red"><img alt="CSS" src="https://img.shields.io/badge/CSS-white?style=flat&logo=CSS&logoColor=blue"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=TypeScript&logoColor=white&logoSize=auto">
 
 ### __Back-end__
@@ -22,14 +20,10 @@ Mi enfoque se basa en profundizar y perfeccionar habilidades, construyendo soluc
 
 <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=yellow"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-white?style=flat&logo=Pandas&logoColor=red&logoSize=auto">
 
-</p>
-
 
 ![francovillagra GitHub stats](https://github-readme-stats.vercel.app/api?username=francovillagra&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francovillagra&layout=compact&theme=dark)
-</a>
-</p>
 
 
 
