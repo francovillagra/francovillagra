@@ -22,8 +22,8 @@ Mi enfoque se basa en profundizar y perfeccionar habilidades, construyendo soluc
 
 ### __Plataforma virtual__
 
-<img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-blue?style=flat&logo=AzureCloud
-">
+![Static Badge](https://img.shields.io/badge/Microsoft%20Azure-blue?style=flat&logo=AzureCloud)
+
 
 ![francovillagra GitHub stats](https://github-readme-stats.vercel.app/api?username=francovillagra&show_icons=true&theme=dark)
 
