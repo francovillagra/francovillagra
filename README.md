@@ -26,10 +26,9 @@ Mi enfoque se basa en profundizar y perfeccionar habilidades, construyendo soluc
 ![Static Badge](https://img.shields.io/badge/Microsoft%20Azure-blue?style=flat&logo=AzureCloud)
 
 
-![francovillagra GitHub stats](https://github-readme-stats.vercel.app/api?username=francovillagra&show_icons=true&theme=dark)
+![francovillagra GitHub stats](https://github-readme-stats.vercel.app/api?username=francovillagra&show_icons=true&theme=dark&v=2)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francovillagra&layout=compact&theme=dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francovillagra&layout=compact&theme=dark&v=2)
 
 
 ### 🤝🏻 &nbsp;Contáctame
