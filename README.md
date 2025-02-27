@@ -11,7 +11,8 @@ Mi enfoque se basa en profundizar y perfeccionar habilidades, construyendo soluc
 
 ### __Front-end__
 
-<img alt="React" src="https://img.shields.io/badge/React-turquoise?style=flat&logo=React&labelColor=grey&color=grey" /><img alt="Javascript" src="https://img.shields.io/badge/Javascript-yellow?style=flat&logo=Javascript&labelColor=black"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=white&labelColor=orange&color=orange"><img alt="Angular" src="https://img.shields.io/badge/Angular-red?style=flat&logo=ANGULAR&logoColor=WHITE&labelColor=red&color=red"><img alt="CSS" src="https://img.shields.io/badge/CSS-white?style=flat&logo=CSS&logoColor=blue"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=TypeScript&logoColor=white&logoSize=auto">
+<img alt="React" src="https://img.shields.io/badge/React-turquoise?style=flat&logo=React&labelColor=grey&color=grey" /> <img alt="Bootstrap" src=https://img.shields.io/badge/Bootstrap-black?style=flat&logo=Bootstrap&logoColor=blue&labelColor=white
+> <img alt="Javascript" src="https://img.shields.io/badge/Javascript-yellow?style=flat&logo=Javascript&labelColor=black"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=white&labelColor=orange&color=orange"> <img alt="Angular" src="https://img.shields.io/badge/Angular-red?style=flat&logo=ANGULAR&logoColor=WHITE&labelColor=red&color=red"> <img alt="CSS" src="https://img.shields.io/badge/CSS-white?style=flat&logo=CSS&logoColor=blue"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=TypeScript&logoColor=white&logoSize=auto">
 
 ### __Back-end__
 
