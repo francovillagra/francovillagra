@@ -47,7 +47,6 @@ Mi enfoque se basa en profundizar y perfeccionar habilidades, construyendo soluc
 <p align="center">
 
 
-<a href="https://fr4nconv@gmail.com"><img src="https://img.shields.io/badge/fr4nconv%40gmail.com-red?style=flat&logoColor=white&logoSize=auto"/></a> <a href="https://www.linkedin.com/in/franco-villagra/"><img src="https://img.shields.io/badge/Linkedin-blue?style=flatlogo=LinkedIn&logoColor=blue&logoSize=auto
-">  <img src="https://img.shields.io/badge/franconv_%2F-blue?style=flat&logo=Instagram&logoColor=white&logoSize=auto"/></a>  <a href= "https://wa.me/5401140995607"><img src="https://img.shields.io/badge/Whatsapp%2F-green?style=flat&logo=Whatsapp&logoColor=white&logoSize=auto" /></a>  <a href= "https://t.me/Francovillagra"><img src="https://img.shields.io/badge/Telegram%2F-blue?style=flat&logo=Telegram&logoColor=white&logoSize=auto" /></a>
+<a href="https://fr4nconv@gmail.com"><img src="https://img.shields.io/badge/fr4nconv%40gmail.com-red?style=flat&logoColor=white&logoSize=auto"/></a> <a href="https://www.linkedin.com/in/franco-villagra/"><img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=LinkedIn&logoColor=blue&logoSize=auto">   <img src="https://img.shields.io/badge/franconv_%2F-blue?style=flat&logo=Instagram&logoColor=white&logoSize=auto"/></a>  <a href= "https://wa.me/5401140995607"><img src="https://img.shields.io/badge/Whatsapp%2F-green?style=flat&logo=Whatsapp&logoColor=white&logoSize=auto" /></a>  <a href= "https://t.me/Francovillagra"><img src="https://img.shields.io/badge/Telegram%2F-blue?style=flat&logo=Telegram&logoColor=white&logoSize=auto" /></a>
 
 -----
