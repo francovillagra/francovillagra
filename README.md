@@ -1,5 +1,8 @@
 <!-- Banner personalizado -->
-<img src="./francovillagra-banner-03.jpg" alt="Franco Villagra - Fullstack Developer" style="width:100%;"/>
+
+<p align="center">
+  <img src="./fvillagrabanner" alt="Franco Villagra Banner" style="width:100%; max-height:400px;" />
+</p>
 
 ---
 
@@ -44,7 +47,9 @@ Me motiva la mejora continua y el aprendizaje profundo de herramientas para reso
 
 ## 🛠 Lenguajes más utilizados
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=francovillagra&layout=compact&theme=dark&v=2)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francovillagra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Lenguajes" />
+</p>
 
 ---
 
