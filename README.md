@@ -11,9 +11,22 @@
 Soy **Franco Villagra**, un **Desarrollador Fullstack** apasionado por construir soluciones tecnológicas eficientes y escalables.  
 Me motiva la mejora continua y el aprendizaje profundo de herramientas para resolver problemas reales.
 
+Te invito a explorar mis proyectos, donde aplico tecnologías modernas para crear software de impacto.
+Si querés charlar, colaborar o simplemente contarme alguna idea, no dudes en contactarme.
+
 ---
 
-## 🚀 Tecnologías
+## 📬 Contacto
+
+<p align="center">
+  <a href="mailto:fr4nconv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/franco-villagra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/franconv_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://wa.me/5401140995607"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://t.me/Francovillagra"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" /></a>
+</p>
+
+## 🚀 Stack Tecnológico
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -64,12 +77,3 @@ Me motiva la mejora continua y el aprendizaje profundo de herramientas para reso
 
 ---
 
-## 📬 Contacto
-
-<p align="center">
-  <a href="mailto:fr4nconv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/franco-villagra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/franconv_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://wa.me/5401140995607"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://t.me/Francovillagra"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" /></a>
-</p>
