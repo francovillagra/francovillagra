@@ -8,8 +8,8 @@
 
 # ¡Hola! 👋
 
-Soy **Franco Villagra**, un **Desarrollador Fullstack** apasionado por construir soluciones tecnológicas eficientes y escalables.  
-Me motiva la mejora continua y el aprendizaje profundo de herramientas para resolver problemas reales.
+Soy **Franco Villagra**, un **Desarrollador Fullstack** enfocado en construir soluciones tecnológicas eficientes y escalables.  
+Me motiva el aprendizaje continuo resolviendo problemas reales, con compromiso y dedicación.
 
 Te invito a explorar mis proyectos, donde aplico tecnologías modernas para crear software de impacto.
 Si querés charlar, colaborar o simplemente contarme alguna idea, no dudes en contactarme.
