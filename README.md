@@ -1,7 +1,7 @@
 <!-- Banner personalizado -->
 
 <p align="center">
-  <img src="./fvillagrabanner" alt="Franco Villagra Banner" style="width:100%; max-height:400px;" />
+  <img src="./fvillagrabanner.png" alt="Franco Villagra Banner" style="width:100%; max-height:400px;" />
 </p>
 
 ---
