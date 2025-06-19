@@ -1,7 +1,7 @@
 ![banner francovillagra](francovillagra-banner-03.jpg)
 
 <!-- Estadísticas de contribuciones y commits -->
-![francovillagra GitHub stats](https://github-readme-stats.vercel.app/api?username=francovillagra&show_icons=true&theme=dark&count_private=true&hide=prs&include_all_commits=true&v=2)
+<img src="https://github-readme-stats.vercel.app/api?username=francovillagra&show_icons=true&theme=dark&count_private=true&hide=prs&include_all_commits=true" alt="GitHub Stats" />
 
 <!-- Badge de lenguajes más usados -->
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=francovillagra&layout=compact&theme=dark&v=2)
