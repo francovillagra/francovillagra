@@ -70,7 +70,8 @@ Si querés charlar, colaborar o simplemente contarme alguna idea, no dudes en co
 
 | Proyecto        | Descripción                           | Tecnologías                    | Enlace                 |
 |-----------------|---------------------------------------|--------------------------------|------------------------|
-| SomosEquipo     |API RESTful para gestión de tareas colaborativas en español. Permite crear, listar, actualizar y eliminar tareas con persistencia local | Python, FastAPI, Uvicorn, Pydantic, Git, GitHub, Swagger UI
+| SomosEquipo     |API RESTful para gestión de tareas colaborativas en español. Permite crear, listar, actualizar y eliminar tareas con persistencia local | Python, FastAPI, Uvicorn, Pydantic, Git, GitHub, Swagger UI | https://github.com/francovillagra/somosequipo
+
 
 
 
