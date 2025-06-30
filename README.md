@@ -70,10 +70,13 @@ Si querés charlar, colaborar o simplemente contarme alguna idea, no dudes en co
 
 | Proyecto        | Descripción                           | Tecnologías                    | Enlace                 |
 |-----------------|---------------------------------------|--------------------------------|------------------------|
-| Proyecto 1      | Breve descripción del proyecto        | React, Node.js, MongoDB        | [Ver](#)               |
-| Proyecto 2      | Breve descripción del proyecto        | Angular, Spring Boot, MySQL    | [Ver](#)               |
+| SomosEquipo     |API RESTful para gestión de tareas 
+                   colaborativas en español. Permite crear, 
+                   listar, actualizar y eliminar tareas con
+                   persistencia local. Ideal para aprender 
+                   fullstack y conectar con frontends.    
 
-> *Actualizá esta tabla cuando tengas proyectos listos para mostrar.*
+
 
 ---
 
