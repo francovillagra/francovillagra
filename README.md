@@ -70,11 +70,7 @@ Si querés charlar, colaborar o simplemente contarme alguna idea, no dudes en co
 
 | Proyecto        | Descripción                           | Tecnologías                    | Enlace                 |
 |-----------------|---------------------------------------|--------------------------------|------------------------|
-| SomosEquipo     |API RESTful para gestión de tareas 
-                   colaborativas en español. Permite crear, 
-                   listar, actualizar y eliminar tareas con
-                   persistencia local. Ideal para aprender 
-                   fullstack y conectar con frontends.    
+| SomosEquipo     |API RESTful para gestión de tareas colaborativas en español. Permite crear, listar, actualizar y eliminar tareas con persistencia local. Ideal para aprender fullstack y conectar con frontends.    
 
 
 
