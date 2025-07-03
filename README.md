@@ -70,7 +70,7 @@ Si querés charlar, colaborar o simplemente contarme alguna idea, no dudes en co
 
 | Proyecto        | Descripción                           | Tecnologías                    | Enlace                 |
 |-----------------|---------------------------------------|--------------------------------|------------------------|
-| SpacePortfolio	| Portfolio web personal moderno con fondo animado de estrellas, agujero negro y diseño responsivo. Presenta proyectos, habilidades y cifrado.	| Next.js 15, React 19, TypeScript 5, Tailwind CSS 3, Framer Motion, React Three Fiber, Three.js, React Icons, Emotion, Immer	| https://github.com/francovillagra/https://github.com/francovillagra/spaceportfolio
+| SpacePortfolio	| Portfolio web personal moderno con fondo animado de estrellas, agujero negro y diseño responsivo. Presenta proyectos, habilidades y cifrado.	| Next.js 15, React 19, TypeScript 5, Tailwind CSS 3, Framer Motion, React Three Fiber, Three.js, React Icons, Emotion, Immer	| https://github.com/francovillagra/spaceportfolio
 | SomosEquipo     |API RESTful para gestión de tareas colaborativas en español. Permite crear, listar, actualizar y eliminar tareas con persistencia local | Python, FastAPI, Uvicorn, Pydantic, Git, Swagger UI | https://github.com/francovillagra/somosequipo
 
 
