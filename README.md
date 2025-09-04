@@ -70,7 +70,8 @@ Si querés charlar, colaborar o simplemente contarme alguna idea, no dudes en co
 
 | Proyecto        | Descripción                           | Tecnologías                    | Enlace                 |
 |-----------------|---------------------------------------|--------------------------------|------------------------|
-| Francoverse	| Portfolio web personal creado con Next.js 15, React 19 y Tailwind CSS, con fondo de partículas interactivas con react-tsparticles y animaciones fluidas en Framer Motion. Fue diseñado para mostrar mis proyectos, stack y experiencia como Desarrollador. | Next.js 15, React 19, Tailwind CSS 3, Framer Motion, React-tsparticles, Three.js + React Three Fiber + Drei, TypeScript 5, ESLint + @typescript-eslint, Yarn 4 (Berry), Emotion.	| https://github.com/francovillagra/Francoverse | SomosEquipo     |API RESTful para gestión de tareas colaborativas en español. Permite crear, listar, actualizar y eliminar tareas con persistencia local | Python, FastAPI, Uvicorn, Pydantic, Git, Swagger UI | https://github.com/francovillagra/somosequipo
+| Francoverse	| Portfolio web personal creado con Next.js 15, React 19 y Tailwind CSS, con fondo de partículas interactivas con react-tsparticles y animaciones fluidas en Framer Motion. Fue diseñado para mostrar mis proyectos, stack y experiencia como Desarrollador. | Next.js 15, React 19, Tailwind CSS 3, Framer Motion, React-tsparticles, Three.js + React Three Fiber + Drei, TypeScript 5, ESLint + @typescript-eslint, Yarn 4 (Berry), Emotion.	| https://github.com/francovillagra/Francoverse 
+| SomosEquipo |API RESTful para gestión de tareas colaborativas en español. Permite crear, listar, actualizar y eliminar tareas con persistencia local | Python, FastAPI, Uvicorn, Pydantic, Git, Swagger UI | https://github.com/francovillagra/somosequipo
 
 
 
