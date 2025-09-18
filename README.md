@@ -50,7 +50,7 @@ Si querés charlar, colaborar o simplemente contarme alguna idea, no dudes en co
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
 
-### Data Science
+### Ciencias de Datos
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
