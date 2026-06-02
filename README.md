@@ -2,13 +2,13 @@
 
 # ¡Hola! 👋
 
-#### Soy **Franco Villagra**, Desarrollador Full Stack con formación en Ciberdefensa.
+Soy **Franco Villagra**, Desarrollador Full Stack con formación en Ciberdefensa.
 
-#### Construyo productos web con TypeScript/Next.js y herramientas de seguridad con Python.
+Construyo productos web con TypeScript/Next.js y herramientas de seguridad con Python.
 
-#### Me interesa construir software seguro desde el diseño — desde APIs endurecidas hasta plataformas de análisis ofensivo y defensivo.
+Me interesa construir software seguro desde el diseño — desde APIs endurecidas hasta plataformas de análisis ofensivo y defensivo.
 
-#### Te invito a explorar mis proyectos. Si querés charlar, contarme una idea o colaborar, escribime.
+Te invito a explorar mis proyectos. Si querés charlar, contarme una idea o colaborar, escribime.
 
 <br>
 
