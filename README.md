@@ -1,10 +1,6 @@
+![Banner](./banner.png)
+
 <div align="center">
-
-# Franco Villagra
-
-### 💻 Full Stack Developer · 🛡️ Ciberseguridad · 📍 Buenos Aires, Argentina
-
-*Construyendo software seguro desde la base*
 
 <a href="https://francoverse.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/franco-villagra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -16,9 +12,9 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy desarrollador Full Stack con foco en seguridad, construyo aplicaciones web y herramientas de seguridad ofensiva/defensiva. Estudio Ciberdefensa en **FADENA** y trabajo como auditor externo en **AGN (Auditoría General de la Nación Argentina)** — una formación que define cómo abordo el riesgo, la compliance y la integridad de los sistemas.
+Soy Desarrollador Full Stack con foco en seguridad: construyo aplicaciones web y herramientas de seguridad ofensiva y defensiva. Estudio Ciberdefensa en **FADENA**, afilando mi expertise justo donde se cruzan la ingeniería de software y la seguridad.
 
-Mi trabajo vive en la intersección entre ingeniería de software y ciberseguridad: APIs endurecidas, plataformas de reconocimiento, escáneres de vulnerabilidades y dashboards de monitoreo de seguridad — todos construidos con estándares de producción real.
+Mi trabajo vive en la intersección entre desarrollo y ciberseguridad: APIs endurecidas, plataformas de reconocimiento, escáneres de vulnerabilidades y dashboards de monitoreo de seguridad — todo construido con estándares de producción real.
 
 📬 **Escribime cuando quieras a [fvillagra.dev@gmail.com](mailto:fvillagra.dev@gmail.com)**
 
@@ -45,14 +41,14 @@ Mi trabajo vive en la intersección entre ingeniería de software y cibersegurid
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![bcrypt](https://img.shields.io/badge/bcrypt-003366?style=for-the-badge&logo=lock&logoColor=white)
 
-**Bases de datos**
+**Bases de Datos**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-**DevOps e Infraestructura**
+**DevOps & Infraestructura**
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
@@ -64,54 +60,54 @@ Mi trabajo vive en la intersección entre ingeniería de software y cibersegurid
 ## 📌 Proyectos Destacados
 
 ### 🛰️ Recon Scope
-Plataforma automatizada de reconocimiento para auditorías de seguridad autorizadas. Enumera subdominios, escanea puertos e identifica tecnologías — con verificación obligatoria de titularidad del dominio antes de iniciar cualquier escaneo.
+Plataforma de reconocimiento automatizado para auditorías de seguridad autorizadas. Enumera subdominios, escanea puertos e identifica tecnologías — con verificación de propiedad de dominio obligatoria antes de cada scan.
 
 `FastAPI` · `Python` · `Next.js` · `PostgreSQL` · `Railway`
 
-[![Repo](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francovillagra/recon-scope)
-[![Live](https://img.shields.io/badge/Demo-3FB950?style=for-the-badge&logo=vercel&logoColor=white)](https://recon-scope.vercel.app)
+[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francovillagra/recon-scope)
+[![Demo](https://img.shields.io/badge/Demo-3FB950?style=for-the-badge&logo=vercel&logoColor=white)](https://recon-scope.vercel.app)
 
 ---
 
 ### 🛡️ Web Vulnerability Scanner
-Escáner de vulnerabilidades web que detecta headers de seguridad faltantes, SSL inválido, cookies inseguras, vectores XSS y exposición a inyección SQL. Sin estado, con un dashboard de resultados limpio.
+Escáner de vulnerabilidades web que detecta security headers faltantes, SSL inválido, cookies inseguras, vectores de XSS y exposición a SQL injection. Stateless, con un dashboard de resultados limpio.
 
 `Next.js` · `TypeScript` · `Zod` · `Recharts`
 
-[![Repo](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francovillagra/web-vulnerability-scanner)
-[![Live](https://img.shields.io/badge/Demo-3FB950?style=for-the-badge&logo=vercel&logoColor=white)](https://web-vulnerability-scanner-red.vercel.app)
+[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francovillagra/web-vulnerability-scanner)
+[![Demo](https://img.shields.io/badge/Demo-3FB950?style=for-the-badge&logo=vercel&logoColor=white)](https://web-vulnerability-scanner-red.vercel.app)
 
 ---
 
-### 🔐 API de Autenticación y Autorización
-API REST endurecida para producción con JWT (acceso de 15 min / refresh de 7 días), RBAC, rate limiting con Upstash Redis, bcrypt, validación con Zod y logging con Winston.
+### 🔐 Authentication & Authorization API
+API REST endurecida para producción con JWT (access de 15 min / refresh de 7 días), RBAC, rate limiting con Upstash Redis, bcrypt, validación con Zod y logging con Winston.
 
 `Next.js` · `TypeScript` · `JWT` · `bcrypt` · `Redis` · `Prisma`
 
-[![Repo](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francovillagra/auth-api-security)
-[![Live](https://img.shields.io/badge/Demo-3FB950?style=for-the-badge&logo=vercel&logoColor=white)](https://auth-api-production.vercel.app)
+[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francovillagra/auth-api-security)
+[![Demo](https://img.shields.io/badge/Demo-3FB950?style=for-the-badge&logo=vercel&logoColor=white)](https://auth-api-production.vercel.app)
 
 ---
 
-### 🔍 Dashboard de Monitoreo de Logs de Seguridad *(en desarrollo)*
-SIEM liviano para Blue Team que ingesta logs, detecta patrones de ataque en tiempo real con reglas personalizadas y transmite alertas a un dashboard en vivo vía WebSocket.
+### 🔍 Security Log Monitoring Dashboard *(en construcción)*
+SIEM liviano de Blue Team que ingiere logs, detecta patrones de ataque en tiempo real mediante reglas personalizadas y transmite alertas a un dashboard en vivo vía WebSocket.
 
 `FastAPI` · `Python` · `Redis Streams` · `Next.js` · `WebSockets`
 
-[![Repo](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francovillagra/log-sentinel)
-[![Preview](https://img.shields.io/badge/Vista_previa-3FB950?style=for-the-badge&logo=vercel&logoColor=white)](https://log-sentinel-eta.vercel.app)
+[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francovillagra/log-sentinel)
+[![Preview](https://img.shields.io/badge/Preview-3FB950?style=for-the-badge&logo=vercel&logoColor=white)](https://log-sentinel-eta.vercel.app)
 
 ---
 
-## 🎓 Certificaciones y Camino de Aprendizaje
+## 🎓 Certificaciones y Formación
 
 | Estado | Certificación |
 |--------|--------------|
 | 🎓 En curso | Licenciatura en Ciberdefensa — FADENA |
 | 🎯 Próxima | AWS Cloud Practitioner |
-| 📚 Planificada | CompTIA Security+ |
-| 📚 Planificada | CEH (Certified Ethical Hacker) |
-| 🏆 Meta | OSCP (Offensive Security Certified Professional) |
+| 📚 Planeada | CompTIA Security+ |
+| 📚 Planeada | CEH (Certified Ethical Hacker) |
+| 🏆 Objetivo | OSCP (Offensive Security Certified Professional) |
 
 ---
 
@@ -119,7 +115,7 @@ SIEM liviano para Blue Team que ingesta logs, detecta patrones de ataque en tiem
 
 <div align="center">
 
-Siempre abierto a colaboraciones, ideas y nuevas oportunidades.
+Estoy siempre abierto a colaborar, escuchar ideas y nuevas oportunidades.
 
 <a href="mailto:fvillagra.dev@gmail.com"><img src="https://img.shields.io/badge/📬_fvillagra.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
