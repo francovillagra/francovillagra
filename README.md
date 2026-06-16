@@ -1,5 +1,3 @@
-![Banner](./banner.png)
-
 <div align="center">
 
 # Franco Villagra
