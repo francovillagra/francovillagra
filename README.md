@@ -41,6 +41,15 @@ Te invito a explorar mis proyectos. Si querés charlar, contarme una idea o cola
 
 ## 📌 Proyectos Destacados
 
+### 🔍 log-sentinel
+Sistema SIEM liviano de Blue Team que ingiere logs, detecta patrones de ataque en tiempo real mediante reglas personalizadas y transmite alertas a un dashboard live vía WebSocket.
+
+`FastAPI` · `Python` · `Redis Streams` · `Next.js` · `Supabase`
+
+[![Repo](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francovillagra/log-sentinel) [![Demo](https://img.shields.io/badge/Demo-3FB950?style=for-the-badge&logo=vercel&logoColor=white)](https://log-sentinel-eta.vercel.app)
+
+---
+
 ### 🛰️ recon-scope
 Plataforma de reconocimiento automatizado para auditorías de seguridad autorizadas. Enumera subdominios, escanea puertos y detecta tecnologías, con verificación de propiedad de dominio obligatoria antes de cada scan.
 
