@@ -1,22 +1,22 @@
-![Banner](./banner.png)
-
 <div align="center">
 
-<a href="https://francoverse.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/franco-villagra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:fvillagra.dev@gmail.com"><img src="https://img.shields.io/badge/📬_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="./banner-mono-light.svg" alt="Franco Villagra — Full Stack Developer · Seguridad Aplicada · Construyo software. Lo defiendo." width="100%" />
+
+<br><br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://francoverse.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/franco-villagra)
+[![Email](https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fvillagra.dev@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🧑‍💻 Sobre mí
 
-Soy Desarrollador Full Stack con foco en seguridad: construyo aplicaciones web y herramientas de seguridad ofensiva y defensiva. Estudio Ciberdefensa en **FADENA**, afilando mi expertise justo donde se cruzan la ingeniería de software y la seguridad.
+Soy Desarrollador Full Stack: construyo aplicaciones web aplicando ciberseguridad desde el diseño. Expongo vulnerabilidades construyendo herramientas ofensivas, para neutralizarlas. Combino desarrollo en TypeScript/Next.js y Python/FastAPI con seguridad a lo largo de todo el ciclo de vida del software (SDLC).
 
-Mi trabajo vive en la intersección entre desarrollo y ciberseguridad: APIs endurecidas, plataformas de reconocimiento, escáneres de vulnerabilidades y dashboards de monitoreo de seguridad — todo construido con estándares de producción real.
-
-📬 **Escribime cuando quieras a [fvillagra.dev@gmail.com](mailto:fvillagra.dev@gmail.com)**
+Actualmente estudio la Licenciatura en Ciberdefensa (FADENA), con base sólida en Desarrollo Full Stack (UTN). Todos mis proyectos están desplegados en producción, construidos con estándares profesionales de seguridad.
 
 ---
 
@@ -24,7 +24,7 @@ Mi trabajo vive en la intersección entre desarrollo y ciberseguridad: APIs endu
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -39,7 +39,7 @@ Mi trabajo vive en la intersección entre desarrollo y ciberseguridad: APIs endu
 
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![bcrypt](https://img.shields.io/badge/bcrypt-003366?style=for-the-badge&logo=lock&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-4A154B?style=for-the-badge&logo=keepassxc&logoColor=white)
 
 **Bases de Datos**
 
@@ -60,67 +60,73 @@ Mi trabajo vive en la intersección entre desarrollo y ciberseguridad: APIs endu
 ## 📌 Proyectos Destacados
 
 ### 🛰️ Recon Scope
+
 Plataforma de reconocimiento automatizado para auditorías de seguridad autorizadas. Enumera subdominios, escanea puertos e identifica tecnologías — con verificación de propiedad de dominio obligatoria antes de cada scan.
 
-`FastAPI` · `Python` · `Next.js` · `PostgreSQL` · `Railway`
+`FastAPI` `Python` `Next.js` `PostgreSQL` `Railway`
 
-[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francovillagra/recon-scope)
-[![Demo](https://img.shields.io/badge/Demo-3FB950?style=for-the-badge&logo=vercel&logoColor=white)](https://recon-scope.vercel.app)
+[![Código](https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francovillagra/recon-scope)
+[![Demo](https://img.shields.io/badge/DEMO-3FB950?style=for-the-badge&logo=vercel&logoColor=white)](https://recon-scope.vercel.app)
 
 ---
 
-### 🛡️ Web Vulnerability Scanner
-Escáner de vulnerabilidades web que detecta security headers faltantes, SSL inválido, cookies inseguras, vectores de XSS y exposición a SQL injection. Stateless, con un dashboard de resultados limpio.
+### 🔍 Log-Sentinel
 
-`Next.js` · `TypeScript` · `Zod` · `Recharts`
+SIEM liviano de Blue Team que ingiere logs, detecta patrones de ataque en tiempo real mediante reglas personalizadas y transmite alertas a un dashboard en vivo vía WebSocket.
 
-[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francovillagra/web-vulnerability-scanner)
-[![Demo](https://img.shields.io/badge/Demo-3FB950?style=for-the-badge&logo=vercel&logoColor=white)](https://web-vulnerability-scanner-red.vercel.app)
+`FastAPI` `Python` `Redis Streams` `Next.js` `WebSockets` `PostgreSQL`
+
+[![Código](https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francovillagra/log-sentinel)
+[![Demo](https://img.shields.io/badge/DEMO-3FB950?style=for-the-badge&logo=vercel&logoColor=white)](https://log-sentinel-eta.vercel.app/)
 
 ---
 
 ### 🔐 Authentication & Authorization API
+
 API REST endurecida para producción con JWT (access de 15 min / refresh de 7 días), RBAC, rate limiting con Upstash Redis, bcrypt, validación con Zod y logging con Winston.
 
-`Next.js` · `TypeScript` · `JWT` · `bcrypt` · `Redis` · `Prisma`
+`Next.js` `TypeScript` `JWT` `bcrypt` `Redis` `Prisma`
 
-[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francovillagra/auth-api-security)
-[![Demo](https://img.shields.io/badge/Demo-3FB950?style=for-the-badge&logo=vercel&logoColor=white)](https://auth-api-production.vercel.app)
+[![Código](https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francovillagra/auth-api-security)
+[![Demo](https://img.shields.io/badge/DEMO-3FB950?style=for-the-badge&logo=vercel&logoColor=white)](https://auth-api-production.vercel.app)
 
 ---
 
-### 🔍 Security Log Monitoring Dashboard *(en construcción)*
-SIEM liviano de Blue Team que ingiere logs, detecta patrones de ataque en tiempo real mediante reglas personalizadas y transmite alertas a un dashboard en vivo vía WebSocket.
+### 🛡️ Web Vulnerability Scanner
 
-`FastAPI` · `Python` · `Redis Streams` · `Next.js` · `WebSockets`
+Escáner de vulnerabilidades web que detecta security headers faltantes, SSL inválido, cookies inseguras, vectores de XSS y exposición a SQL injection. Stateless, con un dashboard de resultados limpio.
 
-[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francovillagra/log-sentinel)
-[![Preview](https://img.shields.io/badge/Preview-3FB950?style=for-the-badge&logo=vercel&logoColor=white)](https://log-sentinel-eta.vercel.app)
+`Next.js` `TypeScript` `Zod` `Recharts`
+
+[![Código](https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francovillagra/web-vulnerability-scanner)
+[![Demo](https://img.shields.io/badge/DEMO-3FB950?style=for-the-badge&logo=vercel&logoColor=white)](https://web-vulnerability-scanner-red.vercel.app)
 
 ---
 
 ## 🎓 Certificaciones y Formación
 
 | Estado | Certificación |
-|--------|--------------|
-| 🎓 En curso | Licenciatura en Ciberdefensa — FADENA |
-| 🎯 Próxima | AWS Cloud Practitioner |
-| 📚 Planeada | CompTIA Security+ |
-| 📚 Planeada | CEH (Certified Ethical Hacker) |
+|:------:|:--------------|
+| 🚩 En curso | Licenciatura en Ciberdefensa — FADENA |
+| 🎯 Próxima | AWS Certified Cloud Practitioner |
+| 📘 Planeada | CompTIA Security+ |
+| 📘 Planeada | CEH (Certified Ethical Hacker) |
 | 🏆 Objetivo | OSCP (Offensive Security Certified Professional) |
 
 ---
 
-## 📫 Conectemos
+## 📬 Conectemos
 
 <div align="center">
 
 Estoy siempre abierto a colaborar, escuchar ideas y nuevas oportunidades.
 
-<a href="mailto:fvillagra.dev@gmail.com"><img src="https://img.shields.io/badge/📬_fvillagra.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![Email](https://img.shields.io/badge/📧_FVILLAGRA.DEV@GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fvillagra.dev@gmail.com)
 
-<a href="https://francoverse.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/franco-villagra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/Fr4nconv"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://francoverse.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/franco-villagra)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Fr4nconv)
 
 </div>
